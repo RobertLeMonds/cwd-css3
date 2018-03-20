@@ -1,5 +1,5 @@
 h1 {
-	color: red;
+	color: #FF8000;
 }
 
 li {
@@ -8,4 +8,10 @@ li {
 
 h4 {
 	color: purple;
+}
+
+body {
+	background: url(http://resizing.info/download.php?w=1920&h=1080&img=http://s966.info/library/w/wood-desk-texture-hd/wood-desk-texture-hd-01.jpg);
+	background-repeat: no-repeat;
+	;
 }
